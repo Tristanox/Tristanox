@@ -2,7 +2,7 @@
 ## I am making a website inspired by _neal.fun_ ⚡
 
 
-I use Google ***Gemini*** to create my websites 🤖
+I use Google ***Gemini*** to create my websites 😎
 No, **I dont really code**, because my main goal was *bringing my ideas to life* 🧬
 
 # Facts :
